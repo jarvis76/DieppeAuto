@@ -37,4 +37,6 @@ date_default_timezone_set("Europe/Paris");
 require_once "./functions/classAutoLoader.php";
 spl_autoload_register('classAutoloader');
 
+$voiture = new Berline("Alfa", "147");
 
+var_dump($voiture);
