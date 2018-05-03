@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Dell
+ * Date: 03/05/2018
+ * Time: 09:49
+ */
+
+require_once "./functions/classAutoLoader.php";
